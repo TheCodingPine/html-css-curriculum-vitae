@@ -1,7 +1,9 @@
 #banner {
     background-color: #ededed;
     text-align: center;
-    
+    border-style: solid;
+    border-width: 0px 0px 2px 00px;
+    border-color: #cf8a04;
   }
 
 #profile {
@@ -15,6 +17,18 @@ h1 {
     margin-bottom: .3em;
     font-weight: bolder; /* nice comment m8 | massimo weight? 900 */
   }
+
+h2 {
+    font-size: 1.6em;
+    color: #cf8a04;
+    margin-bottom: .3em;
+    font-weight: bolder; /* nice comment m8 | massimo weight? 900 */
+  }
+
+
+
+
+
 
  #firma {
      text-align: center;

@@ -1,12 +1,9 @@
-h1  {
-    text-decoration-color: green;
+#profile {
+    height: 150px;
+    width: 150px;
 }
 
-
-
-
 #banner {
-    height: 200px;
     background-color: #ededed;
     text-align: center;
     
@@ -16,3 +13,28 @@ h1  {
  #firma {
      text-align: center;
   }
+
+
+
+
+
+
+
+
+
+h1{
+    text-decoration-color: green;
+}
+
+hr{
+    background-color: #cf8a04;
+    height: 2px;
+    border-width: 0px;
+}
+
+
+div{
+    background-color: #ededed;;
+    height: 300px;
+}
+

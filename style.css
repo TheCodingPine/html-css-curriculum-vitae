@@ -6,7 +6,7 @@
     border-color: #cf8a04;
     border-radius: 0%;
   }
-
+   /* id dell'immagine */
 #profile {
     height: 180px;
     width: 200px;
@@ -34,33 +34,30 @@ h2 {
     font-style: italic;
   }
 
+   /* */
 
-
-
+   /* class delle descrizioni */
 .text {
     font-size: 1em;
     color: black;
     font-weight: 520;
 }
 
-
-
-
+   /* id del pedice */
  #firma {
      text-align: center;
   }
 
+     /* container per mantenere tutto centrato e resizable */
 #container {
-   /* 
-   legacy code
-   margin: 0px 40px 0px 40px;
-    max-width: 900px;*/
+   /*  legacy code
+   margin: 0px 40px 0px 40px;*/
     max-width: 900px;
     margin: auto;
-    padding: 10px;
+    padding: 0px;
 }
 
-
+   /* */
 body {
     height: 100%;
     vertical-align: center;
@@ -68,20 +65,16 @@ body {
 
 }
 
-
 #firma {
     font-size: 0.74em;
     font-weight: 800;
 }
-
-
 
 hr {
     background-color: #cf8a04;
     height: 1px; /* righine_sottili */
     border-width: 0px;
 }
-
 
 div {
     background-color: #ededed;

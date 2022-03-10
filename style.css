@@ -20,19 +20,24 @@ h1 {
      text-align: center;
   }
 
+#container {
+    
+}
 
 
 
 
 
-
-
+#firma {
+    font-size: 0.74em;
+    font-weight: 800;
+}
 
 
 
 hr {
     background-color: #cf8a04;
-    height: 2px;
+    height: 1px; /* righine_sottili */
     border-width: 0px;
 }
 

@@ -15,7 +15,7 @@
 h1 {
     font-size: 2em;
     color: black;
-    margin-bottom: 0em;
+    margin: 0.8em;
     font-weight: bolder; /* nice comment m8 | massimo weight? 900 */
   }
 
@@ -77,8 +77,9 @@ hr {
     border-width: 0px;
 }
 
+/*
 div {
     background-color: #ededed;
     height: 300px;
 }
-
+*/
